@@ -1,0 +1,12 @@
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\bin\Debug\Guitar Tab Creater.exe.config
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\bin\Debug\Guitar Tab Creater.exe
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\bin\Debug\Guitar Tab Creater.pdb
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar Tab Creater.csprojAssemblyReference.cache
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar_Tab_Creater.MainPage.resources
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar_Tab_Creater.NewChord.resources
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar_Tab_Creater.Properties.Resources.resources
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar Tab Creater.csproj.GenerateResource.cache
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar Tab Creater.csproj.CoreCompileInputs.cache
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar Tab Creater.exe
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar Tab Creater.pdb
+C:\Users\Sean's PC\Desktop\Guitar Tab Creater\Guitar Tab Creater\obj\Debug\Guitar_Tab_Creater.AddChord.resources
